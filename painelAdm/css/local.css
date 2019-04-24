@@ -1,0 +1,138 @@
+.divImgHome
+{
+	margin-left: 25% !important;
+	margin-right: 25% !important;
+	margin-top: 15% !important;
+	margin-bottom: 15% !important;
+	align-content: center !important;
+	align-items: center !important;
+	text-align: center !important;
+}
+.imgHome{width: 540px !important;}
+
+.imgLogo{width: 128px !important;}
+.imgLogo-overwrite{width: 200px !important;}
+.btn-adicionar
+{
+	margin-bottom: 1% !important;
+	background-color: #009900 !important;
+	color: #ffffff !important;
+}
+.btn-adicionar:hover{ background-color: #00cc00 !important; }
+
+
+.btn-adicionar-margin-adm
+{
+	margin-right: 631px !important;
+}
+
+.btn-adicionar-margin-market
+{
+	margin-right: 821px !important;
+}
+
+.divBtnAdicionar{width: 100% !important;}
+
+.navLogoBar{background-color: #f8e400 !important;}
+.logoColor{color: #000000 !important;}
+.divHome{width: 100% !important;}
+
+.menuItemColor
+{
+	background-color: #343a40 !important;
+	color: #a2a8ae !important;
+}
+.menuItemColor:hover
+{
+	background-color: #343a40 !important;
+	color: #e9ecef !important;
+}
+
+.bg-overwrite
+{
+	width: auto !important;
+	background-color: #f8e400 !important;
+}
+
+.container-overwrite
+{
+	margin-top: 64px !important;
+	width: 100% !important;
+	align-content: center !important;
+	align-items: center !important;
+	text-align: center !important;
+}
+
+.nav-overwrite{color: #a2a8ae !important;}
+.nav-overwrite:hover{color: #e9ecef !important;}
+
+.cardheader-overwrite
+{
+	margin-left: -15px !important;
+	background-color: #ffffff !important;
+	border-bottom: 0px !important;
+}
+
+.input-register{margin-right: 30px !important;}
+
+.error-msg
+{
+	background-color: #cc0000 !important;
+	color:#ffffff !important;
+	margin-top: 10px !important;
+	display: block !important;
+    border-radius: 5px !important;
+    padding: 10px;
+    text-align: center;
+}
+
+.ok-msg
+{
+	background-color: #009900 !important;
+	color:#ffffff !important;
+	margin-top: 10px !important;
+	display: block !important;
+    border-radius: 5px !important;
+    padding: 10px;
+    text-align: center;
+}
+
+.modal-footer-overwrite
+{
+	justify-content: all !important;
+}
+.btn-primary-overwrite
+{
+	width: 50% !important;
+}
+.btn-primary-insert-overwrite
+{
+	margin-left: 50% !important;
+	align-self: flex-start !important;
+}
+
+.btn-secondary-overwrite
+{
+	width: 50% !important;
+}
+
+.modal-content-overwrite
+{
+	border: 1px solid rgba(0, 0, 0, 0.2) !important;
+	border-radius: 0.3rem !important;
+}
+.modal-header-overwrite
+{
+	margin-top: 0px !important;
+	border: 0px solid rgba(0, 0, 0, 0.2) !important;
+	border-radius: 0.0rem !important;
+}
+
+.img-modal-fit
+{
+	max-width: 200% !important;
+	height: auto !important;
+	display: block !important;
+	align-self: center;
+	align-content: center;
+}

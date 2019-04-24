@@ -1,0 +1,157 @@
+{
+    "clientes": [
+        {
+            "CLIENTE_ID ": "null",
+            "CLIENTE_NOME ": "Abel L Meneses",
+            "CLIENTE_ISCLIENTE ": "0",
+            "CLIENTE_ENDERECO ": "Pedro de Alcântara, S, 110 fds",
+            "CLIENTE_CIDADE ": "_CIDADE_",
+            "CLIENTE_TELEFONE ": "3259-1276",
+            "CLIENTE_ATIVIDADE ": ""
+        },
+        {
+            "CLIENTE_ID ": "null",
+            "CLIENTE_NOME ": "Abelino A Goulart",
+            "CLIENTE_ISCLIENTE ": "0",
+            "CLIENTE_ENDERECO ": "Benjamin Giavarina, av, 814",
+            "CLIENTE_CIDADE ": "_CIDADE_",
+            "CLIENTE_TELEFONE ": "3259-3130",
+            "CLIENTE_ATIVIDADE ": ""
+        },
+        {
+            "CLIENTE_ID ": "null",
+            "CLIENTE_NOME ": "Aceja Jataizinho",
+            "CLIENTE_ISCLIENTE ": "0",
+            "CLIENTE_ENDERECO ": "Frei Timóteo, pç, 77 s2",
+            "CLIENTE_CIDADE ": "_CIDADE_",
+            "CLIENTE_TELEFONE ": "3259-3771",
+            "CLIENTE_ATIVIDADE ": "Associações Comerciais"
+        },
+        {
+            "CLIENTE_ID ": "null",
+            "CLIENTE_NOME ": "Adélia R Lamim",
+            "CLIENTE_ISCLIENTE ": "0",
+            "CLIENTE_ENDERECO ": "José Moraes Neves, 179",
+            "CLIENTE_CIDADE ": "_CIDADE_",
+            "CLIENTE_TELEFONE ": "3259-1688",
+            "CLIENTE_ATIVIDADE ": ""
+        },
+        {
+            "CLIENTE_ID ": "null",
+            "CLIENTE_NOME ": "Adilson da Silva",
+            "CLIENTE_ISCLIENTE ": "0",
+            "CLIENTE_ENDERECO ": "Ignácio Giavarina, 66",
+            "CLIENTE_CIDADE ": "_CIDADE_",
+            "CLIENTE_TELEFONE ": "3259-2731",
+            "CLIENTE_ATIVIDADE ": ""
+        },
+        {
+            "CLIENTE_ID ": "null",
+            "CLIENTE_NOME ": "Adilson G Silva",
+            "CLIENTE_ISCLIENTE ": "0",
+            "CLIENTE_ENDERECO ": "Benjamin Giavarina, av, 879",
+            "CLIENTE_CIDADE ": "_CIDADE_",
+            "CLIENTE_TELEFONE ": "3259-1682",
+            "CLIENTE_ATIVIDADE ": ""
+        },
+        {
+            "CLIENTE_ID ": "null",
+            "CLIENTE_NOME ": "Adriana Munarin",
+            "CLIENTE_ISCLIENTE ": "1",
+            "CLIENTE_ENDERECO ": "Manoel Ignácio Silva, 37",
+            "CLIENTE_CIDADE ": "_CIDADE_",
+            "CLIENTE_TELEFONE ": "3159-0354",
+            "CLIENTE_ATIVIDADE ": "Comércio Exterior - Assessoria"
+        },
+        {
+            "CLIENTE_ID ": "null",
+            "CLIENTE_NOME ": "Advocacia Suely Aparecida Morro Chamilete",
+            "CLIENTE_ISCLIENTE ": "1",
+            "CLIENTE_ENDERECO ": "Frei Timóteo, pç, 43",
+            "CLIENTE_CIDADE ": "_CIDADE_",
+            "CLIENTE_TELEFONE ": "3259-1362*99142-1999",
+            "CLIENTE_ATIVIDADE ": "Advogados"
+        },
+        {
+            "CLIENTE_ID ": "null",
+            "CLIENTE_NOME ": "Abel L Meneses",
+            "CLIENTE_ISCLIENTE ": "0",
+            "CLIENTE_ENDERECO ": "Pedro de Alcântara, S, 110 fds",
+            "CLIENTE_CIDADE ": "_CIDADE_",
+            "CLIENTE_TELEFONE ": "3259-1276",
+            "CLIENTE_ATIVIDADE ": ""
+        },
+        {
+            "CLIENTE_ID ": "null",
+            "CLIENTE_NOME ": "Abelino A Goulart",
+            "CLIENTE_ISCLIENTE ": "0",
+            "CLIENTE_ENDERECO ": "Benjamin Giavarina, av, 814",
+            "CLIENTE_CIDADE ": "_CIDADE_",
+            "CLIENTE_TELEFONE ": "3259-3130",
+            "CLIENTE_ATIVIDADE ": ""
+        },
+        {
+            "CLIENTE_ID ": "null",
+            "CLIENTE_NOME ": "Aceja Jataizinho",
+            "CLIENTE_ISCLIENTE ": "0",
+            "CLIENTE_ENDERECO ": "Frei Timóteo, pç, 77 s2",
+            "CLIENTE_CIDADE ": "_CIDADE_",
+            "CLIENTE_TELEFONE ": "3259-3771",
+            "CLIENTE_ATIVIDADE ": "Associações Comerciais"
+        },
+        {
+            "CLIENTE_ID ": "null",
+            "CLIENTE_NOME ": "Adélia R Lamim",
+            "CLIENTE_ISCLIENTE ": "0",
+            "CLIENTE_ENDERECO ": "José Moraes Neves, 179",
+            "CLIENTE_CIDADE ": "_CIDADE_",
+            "CLIENTE_TELEFONE ": "3259-1688",
+            "CLIENTE_ATIVIDADE ": ""
+        },
+        {
+            "CLIENTE_ID ": "null",
+            "CLIENTE_NOME ": "Adilson da Silva",
+            "CLIENTE_ISCLIENTE ": "0",
+            "CLIENTE_ENDERECO ": "Ignácio Giavarina, 66",
+            "CLIENTE_CIDADE ": "_CIDADE_",
+            "CLIENTE_TELEFONE ": "3259-2731",
+            "CLIENTE_ATIVIDADE ": ""
+        },
+        {
+            "CLIENTE_ID ": "null",
+            "CLIENTE_NOME ": "Adilson G Silva",
+            "CLIENTE_ISCLIENTE ": "0",
+            "CLIENTE_ENDERECO ": "Benjamin Giavarina, av, 879",
+            "CLIENTE_CIDADE ": "_CIDADE_",
+            "CLIENTE_TELEFONE ": "3259-1682",
+            "CLIENTE_ATIVIDADE ": ""
+        },
+        {
+            "CLIENTE_ID ": "null",
+            "CLIENTE_NOME ": "Adriana Munarin",
+            "CLIENTE_ISCLIENTE ": "1",
+            "CLIENTE_ENDERECO ": "Manoel Ignácio Silva, 37",
+            "CLIENTE_CIDADE ": "_CIDADE_",
+            "CLIENTE_TELEFONE ": "3159-0354",
+            "CLIENTE_ATIVIDADE ": "Comércio Exterior - Assessoria"
+        },
+        {
+            "CLIENTE_ID ": "null",
+            "CLIENTE_NOME ": "Advocacia Suely Aparecida Morro Chamilete",
+            "CLIENTE_ISCLIENTE ": "1",
+            "CLIENTE_ENDERECO ": "Frei Timóteo, pç, 43",
+            "CLIENTE_CIDADE ": "_CIDADE_",
+            "CLIENTE_TELEFONE ": "3259-1362*99142-1999",
+            "CLIENTE_ATIVIDADE ": "Advogados"
+        },
+        {
+            "CLIENTE_ID ": "null",
+            "CLIENTE_NOME ": "aaaa",
+            "CLIENTE_ISCLIENTE ": "1",
+            "CLIENTE_ENDERECO ": "Rua aHello 234, te",
+            "CLIENTE_CIDADE ": "_CIDADE_",
+            "CLIENTE_TELEFONE ": "1234-3201*3201-4932",
+            "CLIENTE_ATIVIDADE ": "Sapateiro"
+        }
+    ]
+}
