@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?><?mso-application progid="Excel.Sheet"?><Workbook xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:x2="urn:schemas-microsoft-com:office:excel2" xmlns:html="http://www.w3.org/TR/REC-html40" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882">
+ <x:ExcelWorkbook>
+  <x:ActiveSheet>0</x:ActiveSheet>
+ </x:ExcelWorkbook>
+ <o:DocumentProperties>
+  <o:Created>2018-07-09T16:28:37Z</o:Created>
+  <o:Author>Editoracao02</o:Author>
+  <o:LastSaved>2019-02-09T12:37:45Z</o:LastSaved>
+ </o:DocumentProperties>
+ <o:CustomDocumentProperties>
+  <o:AppVersion>15.0300</o:AppVersion>
+  <o:DocSecurity dt:dt="float">0</o:DocSecurity>
+  <o:HyperlinksChanged dt:dt="boolean">False</o:HyperlinksChanged>
+  <o:LinksUpToDate dt:dt="boolean">False</o:LinksUpToDate>
+  <o:ScaleCrop dt:dt="boolean">False</o:ScaleCrop>
+  <o:ShareDoc dt:dt="boolean">False</o:ShareDoc>
+ </o:CustomDocumentProperties>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Calibri" ss:Size="11" />
+   <ss:Protection ss:Protected="1" x:HideFormula="0" />
+  </Style>
+  <Style ss:ID="S19" ss:Name="Comma">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Borders />
+   <ss:Font ss:Color="#000000" ss:FontName="Arial" ss:Size="10" />
+   <ss:Interior />
+   <ss:NumberFormat />
+   <ss:Protection ss:Protected="1" x:HideFormula="0" />
+  </Style>
+  <Style ss:ID="S21">
+   <ss:Alignment ss:Horizontal="Left" ss:Vertical="Bottom" />
+   <ss:Font ss:FontName="Arial" ss:Size="9" />
+   <ss:Protection ss:Protected="1" x:HideFormula="0" />
+  </Style>
+  <Style ss:ID="S22">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Calibri" ss:Size="11" />
+   <ss:Protection ss:Protected="1" x:HideFormula="0" />
+  </Style>
+  <Style ss:ID="S23">
+   <ss:Alignment ss:Horizontal="Left" ss:Vertical="Bottom" />
+   <ss:Font ss:FontName="Arial" ss:Size="9" />
+   <ss:Protection ss:Protected="1" x:HideFormula="0" />
+  </Style>
+  <Style ss:ID="S24" ss:Parent="S19">
+   <ss:Alignment ss:Horizontal="Left" ss:Vertical="Bottom" />
+   <ss:Borders />
+   <ss:Font ss:FontName="Arial" ss:Size="9" />
+   <ss:Protection ss:Protected="1" x:HideFormula="0" />
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Plan1">
+  <ss:Names />
+  <ss:Table ss:DefaultRowHeight="13.5" ss:DefaultColumnWidth="48" ss:ExpandedRowCount="767" ss:ExpandedColumnCount="256">
+   <Column ss:Index="1" ss:Span="6" ss:StyleID="S21" ss:AutoFitWidth="0" ss:Width="227.25" />
+   <Column ss:Index="8" ss:Span="248" ss:StyleID="S21" ss:AutoFitWidth="0" ss:Width="48" />
+   <Row ss:Index="1" ss:Height="27.95">
+    <Cell><Data ss:Type="String">is_cliente</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">telefone</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">nome</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">endereco</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">numero</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">atividade</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">cidade</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="2" ss:Height="27.95">
+    <Cell><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">3259-1276</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Abel L Meneses</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Pedro de Alcântara, S,</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">110 fds</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Jataizinho</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="3" ss:Height="27.95">
+    <Cell><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">3259-3130</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Abelino A Goulart</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Benjamin Giavarina, av,</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">814</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="4" ss:Height="27.95">
+    <Cell><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">3259-3771</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Aceja Jataizinho</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Frei Timóteo, pç,</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">77 s2</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Associações Comerciais</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">clientes_logos/.anime-comfy.jpg</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="5" ss:Height="27.95">
+    <Cell><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">3259-1688</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Adélia R Lamim</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">José Moraes Neves,</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">179</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="6" ss:Height="27.95">
+    <Cell><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">3259-2731</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Adilson da Silva</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Ignácio Giavarina,</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">66</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="7" ss:Height="27.95">
+    <Cell><Data ss:Type="Number">0</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">3259-1682</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Adilson G Silva</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Benjamin Giavarina, av,</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">879</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="8" ss:Height="27.95">
+    <Cell><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">3159-0354</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Adriana Munarin</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Manoel Ignácio Silva,</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">37</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Comércio Exterior - Assessoria</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="9" ss:Height="27.95">
+    <Cell><Data ss:Type="Number">1</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">3259-1362*99142-1999</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Advocacia Suely Aparecida Morro Chamilete</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Frei Timóteo, pç,</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">43</Data>
+    </Cell>
+    <Cell><Data ss:Type="String">Advogados</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0</Data>
+    </Cell>
+   </Row>
+  </ss:Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.511805555555555" />
+    <Footer x:Margin="0.511805555555555" />
+    <PageMargins x:Top="0.7875" x:Bottom="0.7875" x:Left="0.511805555555555" x:Right="0.511805555555555" />
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo />
+    <PaperSizeIndex>9</PaperSizeIndex>
+   </Print>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>174</ActiveRow>
+     <ActiveCol>6</ActiveCol>
+     <RangeSelection>R175C7</RangeSelection>
+    </Pane>
+   </Panes>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
